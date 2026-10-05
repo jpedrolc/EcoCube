@@ -44,7 +44,7 @@ Os conectores RJ45 transportam alimentação e sinais digitais em uma pinagem pr
 
 **Ainda pendente:** validar os sensores e o cabeamento em bancada, integrar o temporizador e o IR, testar uma sala piloto e medir economia energética.
 
-Este repositório contém documentação de projeto. Ainda não inclui firmware, esquemáticos, CAD ou resultados de testes reproduzíveis. O antigo marco “sensor → LED concluído” não está confirmado na documentação atual e não é apresentado como validação da nova arquitetura.
+Este repositório contém documentação de projeto. Ainda não inclui firmware, esquemáticos, CAD ou resultados de testes reproduzíveis.
 
 Iluminação, sensores ambientais, medição de energia e dashboard são **expansões futuras**, fora do MVP.
 

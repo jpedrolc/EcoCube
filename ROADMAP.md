@@ -2,8 +2,6 @@
 
 **Estágio: pesquisa e projeto.** Os marcos abaixo são pendentes; não representam um protótipo construído ou resultados já obtidos.
 
-Este plano substitui o cronograma antigo, que misturava metas, percentuais sem evidência e caminhos de firmware inexistentes. A versão anterior permanece no histórico do Git.
-
 | Marco pendente | Evidência necessária |
 | --- | --- |
 | Um radar e ESP32 em bancada | Modelo da placa, alimentação e leitura de OUT registrados |
@@ -22,5 +20,3 @@ A economia energética precisa ser medida; não há percentual de economia valid
 ## Depois do MVP
 
 Sensores BME280/BH1750, medição energética, iluminação e conectividade só serão integrados após a validação de presença e IR.
-
-Referência de planejamento: documentação EcoCube v0.2 no Notion, de 29/08/2026. Revisão do portfólio: 05/10/2026.

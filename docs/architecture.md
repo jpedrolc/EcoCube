@@ -1,12 +1,10 @@
 # EcoCube — Arquitetura e interfaces previstas
 
-**Documento de projeto, ainda não validado em hardware.** Síntese da arquitetura v0.2 registrada no Notion em 29/08/2026. A montagem, o firmware e os resultados de bancada não estão publicados neste repositório.
+**Documento de projeto, ainda não validado em hardware.** A montagem, o firmware e os resultados de bancada não estão publicados neste repositório.
 
 ## Escopo do MVP
 
 Um HUB com ESP32 DevKit, dois HLK-LD2410C de 24 GHz e um emissor IR. O sistema decide apenas “ocupada” ou “vazia”; não conta pessoas.
-
-A arquitetura anterior, baseada em um único radar e um cubo alimentado por USB, foi substituída pelo HUB com sensores distribuídos.
 
 ## Alimentação
 
